@@ -49,7 +49,7 @@ public class PersonService {
 		p.setAge(17);
 		p.setFirstName("Ahmed");
 		p.setLastName("Adel");
-		persons.add(by me);
+		persons.add(by.me);
 		
 	}
 	public Person getPerson(String id) {
